@@ -1,0 +1,1 @@
+cargo:rustc-link-search=/Users/adriaanp/dev/rust/discovery/src/05-led-roulette/target/debug/build/f3-bea28937c3ec4be6/out

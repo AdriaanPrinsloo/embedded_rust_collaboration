@@ -1,0 +1,1 @@
+{"rustc":5907191500508672473,"features":"[\"memcpy\", \"rlibc\"]","target":4837760575756944800,"profile":13777061416853275235,"deps":[["rlibc v1.0.0",5697576596891095660]],"local":[{"Precalculated":"0.0.20161008+c56faf22abb39724008148d58f12bcd43b6d236b"}],"rustflags":[]}

@@ -1,0 +1,1 @@
+{"rustc":5907191500508672473,"features":"[]","target":983918190999136523,"profile":13777061416853275235,"deps":[],"local":[{"Precalculated":"1.0.0"}],"rustflags":["-C","link-arg=-Tstm32f3discovery.ld","-C","link-arg=-nostartfiles","--sysroot","/Users/adriaanp/.xargo"]}
